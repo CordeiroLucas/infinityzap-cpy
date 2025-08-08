@@ -1,0 +1,14 @@
+TEMPLATE = """URL_LINK = ""
+ELEMENTO_LOGIN = "monitor"
+# TRATAR TABELA
+TABELA_OUTPUT = 'agendamentos.csv'
+DATA_DROP = ['curso (reposicao)', 'data marcacao', 'curso aluno', 'acoes']
+# Seu NOME
+NAME = ""
+#SEU LOGIN DO SISTEMA E SEU TELEFONE
+LOGIN = ""
+TELEFONE = ""
+# RODA NO MODO DE TESTE (SÓ VOCÊ VAI RECEBER AS MENSAGENS)
+# FALSE - PARA MANDAR MENSAGENS PARA PESSOAS
+TESTE = True
+"""
